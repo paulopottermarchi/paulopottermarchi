@@ -1,6 +1,6 @@
 ## Hi there, I'm Paulo Potter, Computer Science Bachelor and Data Engineer👋
 
-- I consider myself someone with good communication skills and willing to help others and work on a collaborative environment, always excited about learning new technologies and challenging myself.
+- I consider myself someone with good communication skills and willing to help others and work on a collaborative environment. My passion lies in the ability to transform numbers into knowledge and decisions that make a difference in the world. We live in the age of information, where data is the new oil and I want to be at the forefront of this revolution, extracting value and driving innovation. 
 - 🎓 Recently graduated in Computer Science.
 - Looking foward on opportunities to expand my knowledge.
 
